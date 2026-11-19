@@ -58,4 +58,8 @@ Bu sorular gözlemlerimizden çıktı. Henüz yanıt alınmadı.
 
 Bu denemeler otomatik bir tarayıcıda, adım adım uygulanıp ekran görüntüsüyle kaydedildi. Ekip üyelerinden biri aynı adımları kendi Chrome tarayıcısında (önce "Örnek veriyi sıfırla") tekrar edip sonucu karşılaştıracak:
 
-- Tekrar eden üye: [ad] — Tarih: [ ] — Sonuç: [Aynı / Farklı: …]
+- Tekrar eden üye: Ramazan Berat Koç — Tarih: 19.11.2026 — Tarayıcı: Google Chrome, yerel `index.html` — Önce örnek veri sıfırlandı.
+  - G-02 (Resepsiyon / Kaan / Selin Kaya / 14:00 → onayla): R008 Bekliyor oluştu, 14:00 Dolu. **Aynı.**
+  - G-05 (Hasta / Kaan / R008 → İptal et → Tamam): R008 İptal edildi, listede kaldı, 14:00 Uygun; hasta rolünde toplamlar gizli. **Aynı.**
+  - G-07 (Doktor / Selin Kaya / R005 → Tamamlandı): R005 Tamamlandı, 09:30 Kapalı, toplamlar 0/2/1/3; saatler ve onay düğmesi pasif. **Aynı.**
+  - Diğer satırlar (G-01, G-03, G-04, G-06, G-08–G-10) bu tekrarda ayrıca denenmedi.

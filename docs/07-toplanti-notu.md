@@ -1,7 +1,7 @@
 # 07 — Kısa ekip toplantısı
 
 Ekip: Grup 04 — İhsan Kart, Metin Efe Uğur, Ramazan Berat Koç  
-Sürüm: 0.1  
+Sürüm: 0.2 — ders testi sonuçları eklendi  
 Durum: **Gündem ve karar önerileri hazır. Toplantı henüz yapılmadı.** Toplantıdan sonra tarih, süre, katılanlar ve kararların son hâli yazılacak.
 
 Tarih ve süre: [gg.aa.2026 · __ dk]  
@@ -53,6 +53,6 @@ Her üye `ders-testi.html` dosyasını kendisi çözer. İlk deneme sonucunu aş
 
 | Üye | Tarih | İlk deneme doğru sayısı (/6) | Yanlış yapılan soru ve öğrendiğimiz |
 |---|---|---|---|
-| İhsan Kart | [ ] | [ ] | [ ] |
-| Metin Efe Uğur | [ ] | [ ] | [ ] |
-| Ramazan Berat Koç | [ ] | [ ] | [ ] |
+| İhsan Kart | 19.11.2026 | 4/6 | Q1 (FR-03 ve kabul koşulu) ve Q2 (BR-01 ile FR-02 ilişkisi). Öğrendiğimiz: FR-03'te yalnız hasta kendi Bekliyor kaydını iptal eder, vazgeçerse kayıt değişmez; BR-01 bir iş kuralıdır ve FR-02'nin uyması gereken "doktor + tarih + saat" koşulunu tanımlar. |
+| Metin Efe Uğur | 19.11.2026 | 5/6 | Q5 (bağlam ve kullanım durumu diyagramı). Öğrendiğimiz: bağlam diyagramı sistemi tek kutu ve dış aktörlerle alışverişi gösterir; kullanım durumu diyagramı kullanıcı amaçlarını sistem sınırının içinde, aktörleri dışında gösterir. Her paydaş aktör değildir. |
+| Ramazan Berat Koç | 19.11.2026 | 4/6 | Q5 (bağlam ve kullanım durumu diyagramı) ve Q6 (gözlemin kanıt sınırı). Öğrendiğimiz: gözlem yalnız denenen sayfa ve koşullar için geçerlidir; başka tarayıcı, cihaz, gerçek giriş veya eşzamanlı kullanım için genelleme yapılamaz. |
