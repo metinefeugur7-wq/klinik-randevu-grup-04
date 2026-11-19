@@ -3,7 +3,8 @@
 Ekip: Grup 04 — İhsan Kart, Metin Efe Uğur, Ramazan Berat Koç  
 Tarih: 19.11.2026  
 Sürüm: 0.1  
-Hazırlayan: Metin Efe Uğur · İnceleyen: Ramazan Berat Koç (inceleme henüz yapılmadı)  
+Hazırlayan: Metin Efe Uğur · İnceleyen: Ramazan Berat Koç (inceleme henüz yapılmadı)
+İlgili issue: #3, #4
 Durum: Taslak. İşlevsel gereksinimlerin dayanağı gözlemlerimiz. Kalite hedefleri ölçülmedi.
 
 Gereksinimleri "Sistem … koşulunda … yapmalıdır" biçiminde, kontrol edilebilir yazdık. Ekrandaki düğme adı tek başına gereksinim sayılmaz.
