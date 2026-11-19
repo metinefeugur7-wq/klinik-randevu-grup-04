@@ -4,6 +4,8 @@ Ekip: Grup 04 — İhsan Kart, Metin Efe Uğur, Ramazan Berat Koç
 Tarih: 19.11.2026  
 Sürüm: 0.1  
 Hazırlayan: İhsan Kart · İnceleyen: Metin Efe Uğur (inceleme henüz yapılmadı)  
+İlgili issue: #5, #6  
+
 Durum: Taslak. Paydaş görüşmesi yapılmadı; problem ve kapsam ders senaryosuna dayanıyor.
 
 ## Problem
