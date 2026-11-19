@@ -1,12 +1,12 @@
 # 07 — Kısa ekip toplantısı
 
 Ekip: Grup 04 — İhsan Kart, Metin Efe Uğur, Ramazan Berat Koç  
-Sürüm: 0.2 — ders testi sonuçları eklendi  
-Durum: **Gündem ve karar önerileri hazır. Toplantı henüz yapılmadı.** Toplantıdan sonra tarih, süre, katılanlar ve kararların son hâli yazılacak.
+Sürüm: 0.3 — toplantı sonucu eklendi  
+Durum: **Toplantı yapıldı.** Altı karar önerisinin tamamı kabul edildi; ek konu görüşülmedi.
 
-Tarih ve süre: [gg.aa.2026 · __ dk]  
-Yer: [Sınıf / çevrimiçi]  
-Katılanlar: [ ] İhsan Kart · [ ] Metin Efe Uğur · [ ] Ramazan Berat Koç  
+Tarih ve süre: 19.11.2026 · 15 dk  
+Yer: Çevrimiçi — WhatsApp sesli görüşme  
+Katılanlar: [x] İhsan Kart · [x] Metin Efe Uğur · [x] Ramazan Berat Koç  
 Notu yazan: Ramazan Berat Koç
 
 ## Toplantının amacı
@@ -23,16 +23,16 @@ Notu yazan: Ramazan Berat Koç
 
 ## Karar önerileri
 
-Toplantıda her satır için "Kabul / Değişti / Ret" yazılacak.
+Toplantıda her satır okundu; sonuç son sütunda.
 
 | No | Karar önerisi | Gerekçe | İlgili | Sorumlu | Kontrol zamanı | Toplantı sonucu |
 |---|---|---|---|---|---|---|
-| K-01 | 1–2. haftada yalnız mevcut FR-01–FR-06 ve BR-01'i belgelemek; yeni yetki önerilerini açık soru olarak tutmak. | Belgelerin aynı kapsamı anlatması. | 01, 03 | Metin Efe Uğur | Yeni kapsam önerisi gelince | [ ] |
-| K-02 | İptal penceresi metnini ("Randevuyu iptal et / Vazgeç") paydaşa sormak; yanıta göre 3. haftada değiştirmek. | G-04, RSK-01 | FR-03, ALT-01, S-01 | Ramazan Berat Koç | 3. hafta başı | [ ] |
-| K-03 | Kalite hedefleri ölçülene kadar durumlarını "Ölçülmedi" bırakmak. | Fonksiyon denemeleri kalite ölçümü yerine geçmez. | NFR-01–03, AC-NFR | Metin Efe Uğur | Her ölçümden sonra | [ ] |
-| K-04 | Her belge değişikliğini kendi dalında yapmak, `main`'e yalnız incelenmiş PR ile almak. | RSK-03, RSK-05 | 05, 09 | İhsan Kart | Her PR'de | [ ] |
-| K-05 | Her deneme öncesi örnek veriyi sıfırlamak, ekran görüntülerini `kanit/` klasöründe tutmak. | RSK-02 | 08 | Ramazan Berat Koç | Her denemede | [ ] |
-| K-06 | Görevleri 09'daki gibi dağıtıp bir sonraki oturumda döndürmek. | Herkes her işi öğrensin. | 09 | İhsan Kart | Sonraki oturum | [ ] |
+| K-01 | 1–2. haftada yalnız mevcut FR-01–FR-06 ve BR-01'i belgelemek; yeni yetki önerilerini açık soru olarak tutmak. | Belgelerin aynı kapsamı anlatması. | 01, 03 | Metin Efe Uğur | Yeni kapsam önerisi gelince | Kabul |
+| K-02 | İptal penceresi metnini ("Randevuyu iptal et / Vazgeç") paydaşa sormak; yanıta göre 3. haftada değiştirmek. | G-04, RSK-01 | FR-03, ALT-01, S-01 | Ramazan Berat Koç | 3. hafta başı | Kabul |
+| K-03 | Kalite hedefleri ölçülene kadar durumlarını "Ölçülmedi" bırakmak. | Fonksiyon denemeleri kalite ölçümü yerine geçmez. | NFR-01–03, AC-NFR | Metin Efe Uğur | Her ölçümden sonra | Kabul |
+| K-04 | Her belge değişikliğini kendi dalında yapmak, `main`'e yalnız incelenmiş PR ile almak. | RSK-03, RSK-05 | 05, 09 | İhsan Kart | Her PR'de | Kabul |
+| K-05 | Her deneme öncesi örnek veriyi sıfırlamak, ekran görüntülerini `kanit/` klasöründe tutmak. | RSK-02 | 08 | Ramazan Berat Koç | Her denemede | Kabul |
+| K-06 | Görevleri 09'daki gibi dağıtıp bir sonraki oturumda döndürmek. | Herkes her işi öğrensin. | 09 | İhsan Kart | Sonraki oturum | Kabul |
 
 ## Açık sorular
 
